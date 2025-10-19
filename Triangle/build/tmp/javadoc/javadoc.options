@@ -1,0 +1,7 @@
+-classpath '/home/miguel/ES2/Triangle/build/classes/java/main:/home/miguel/ES2/Triangle/build/resources/main'
+-d '/home/miguel/ES2/Triangle/build/docs/javadoc'
+-doctitle 'Triangle 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'Triangle 1.0-SNAPSHOT API'
+'/home/miguel/ES2/Triangle/src/main/java/triangle/Triangle.java'
